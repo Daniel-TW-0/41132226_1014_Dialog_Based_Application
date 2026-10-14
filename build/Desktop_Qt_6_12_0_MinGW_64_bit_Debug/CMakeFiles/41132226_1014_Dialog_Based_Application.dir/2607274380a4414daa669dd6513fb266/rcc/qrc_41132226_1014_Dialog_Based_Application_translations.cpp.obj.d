@@ -1,0 +1,2 @@
+CMakeFiles/41132226_1014_Dialog_Based_Application.dir/2607274380a4414daa669dd6513fb266/rcc/qrc_41132226_1014_Dialog_Based_Application_translations.cpp.obj: \
+ C:\Qt_example\41132226_1014_Dialog_Based_Application\build\Desktop_Qt_6_12_0_MinGW_64_bit_Debug\.qt\rcc\qrc_41132226_1014_Dialog_Based_Application_translations.cpp
